@@ -8,3 +8,17 @@ Course Assessment Breakdown:
     Group Assignment: 14%
     10 Lab Exercises: 16%
     Lecture Quizzes: 8%
+
+Topics Covered:
+1. Intro, BASH & The CLI
+2. Git, GitHub & more BASH
+3. Version Control for DevOps
+4. Developer Operations Landscape
+5. Preparing and Hosting Automating Software Builds
+6. Continuous Integration / Continuous Deployment
+7. Preparing Data storage and cloud databases
+8. Working with Cloud Infrastructure
+9. Automating DevOps & Quality assurance
+10. DevOps Assembly Lines
+11. Commonly Used DevOps Tech Exposed
+12. Transitioning into the role of DevOps
