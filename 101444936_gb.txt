@@ -1,2 +1,7 @@
 Student Name: Vince Marando
 Student ID: 101444936
+Program Name: Computer Systems Technology
+Code: T187
+Credential: Ontario College Advanced Diploma
+Method of Study: Full-time
+Duration: 3 years (6 semesters)
