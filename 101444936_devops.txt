@@ -1,2 +1,10 @@
 COMP2156 - DevOps For System Administration
-Assigned Instructor:	Priteshkumar Patel
+Assigned Instructor: Priteshkumar Patel
+
+Course Assessment Breakdown:
+    Midterm Exam: 20%
+    Final Exam: 30%
+    Individual Assignment: 12%
+    Group Assignment: 14%
+    10 Lab Exercises: 16%
+    Lecture Quizzes: 8%
