@@ -1,3 +1,7 @@
+[Topic Description]
+    
+    This file contains writings and information about George Brown College.
+
 [Development of Courses and Programs]
 
     When it comes to developing and teaching online courses related around IT, George Brown College seems to be in a bit of an ideation phase.
