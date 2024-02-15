@@ -1,0 +1,19 @@
+Importance of DevOps
+
+What is DevOps?
+•	“The practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.”
+•	Replaces the model of having different teams for writing the code, testing the code, deploying it and operating it.
+•	Characterized by operations staff making use of the same techniques as developers for system flow.
+•	Assets are checked and tested.
+
+Why DevOps?
+•	Effective in improving both IT and business outcomes.
+•	Teams Using DevOps Practices:
+•	Deployed changes 30 times more frequently.
+•	Had 200 times shorter lead times.
+•	Experienced 60 times fewer failures.
+•	Recovered from errors 168 times faster.
+•	Makes daily life easier.
+•	Reduces unplanned work.
+•	Increases friendly relationships between coworkers.
+•	Reduces stress on the job.
