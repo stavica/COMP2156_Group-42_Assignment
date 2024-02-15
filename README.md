@@ -14,3 +14,7 @@ Each group member has their own branch. Within their branch, they have three tex
 Towards the end of the assignment and after a certain number of commits made per individual group member, all three branches will be merged into the `main` branch. Any conflicts from the merges will be reviewed and resolved.
 
 This readme file will be updated over time to reflect our progress.
+
+Progress Updates:
+
+02/15/24 > Files in the 101444936-Vince branch are complete and ready to be merged to main.
