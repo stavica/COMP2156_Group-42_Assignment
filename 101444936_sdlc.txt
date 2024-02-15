@@ -44,3 +44,27 @@ Measurement:
 Sharing:
 •	Sharing ideas and problems is the heart of collaboration and also the heart of DevOps.
 •	The feedback loop that helps you continuously improve.
+
+Ten Practices for DevOps Success
+10. Incidence Command System
+9. Developers on Call
+8. Public Status Pages
+7. Blameless Postmortems
+6. Embedded Teams
+5. The Cloud
+4. Andon Cord
+3. Dependency Injection
+2. Blue/Green Deployment
+1. The Chaos Monkey
+
+DevOps Tools
+•	There is no single tool that can do everything, you need a series of tools that can be composed into a tool chain. 
+•	A tool is only useful to the degree that it supports your entire system.
+•	Be thoughtful about choosing your tools; ensure they complement each other and your strategy.
+•	There is a such thing as too many tools. Tools have a cost, even if it’s just the time to learn them.
+•	Consider the risk of using new tools, automating your systems could result in a mass failure. 
+•	Address the values and principles of DevOps first and the tools last.
+•	Tool Criteria:
+•	Programmable: Automated, can been invoked with an API or Command Line.
+•	Verifiable: Trust but verify.
+•	Well behaved: Check configuration and test behaviour.
