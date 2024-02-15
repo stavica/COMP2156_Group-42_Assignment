@@ -1,0 +1,3 @@
+DevOps engineers play a very importanrt role in a software development cycle. They bridge the gap between 
+development and operations teams. DevOps is a set of practices that tries toimprove and automate the 
+collaboration and communication between the development side and IT operations side.
