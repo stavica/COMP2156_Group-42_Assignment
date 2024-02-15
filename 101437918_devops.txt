@@ -1,3 +1,11 @@
+Class: COMP2156 - DevOps For System Administration
+Assigned Instructor: Priteshkumar Patel
+Scheduled: Monday 6pm-8pm, Wednesday 6pm-8pm
+Reccomended Resources: DevOps: A Software Architect’s Perspective (Bass, Len Weber, Ingo Zhu, Liming [Bass etc.)
+                       Docker Up Running Shipping Reliable Containers in Production (Sean P. Kane Karl Matthias)
+
+
+
 Devops is an interesting field of study. The process of collaberation and how to smoothly integrate the work 
 of many contributors is doubtless integral to the modern process of app development. The professor seems not 
-only quite familiar with the material but also quite passionate about delivering it in a timely fashion. 
+only quite familiar with the material but also quite passionate about delivering it in a timely fashion.
