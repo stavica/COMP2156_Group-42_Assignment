@@ -1,4 +1,4 @@
-Importance of DevOps
+The Importance of DevOps
 
 What is DevOps?
 •	“The practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.”
@@ -17,3 +17,30 @@ Why DevOps?
 •	Reduces unplanned work.
 •	Increases friendly relationships between coworkers.
 •	Reduces stress on the job.
+
+DevOps Core Values: CAMS
+•	CAMS Stands for: Culture, Automation, Measurement, Sharing
+
+Culture:
+•	Culture is driven by behaviour.
+•	“The word DevOps gets reduced to technology is a manifestation of how badly we need a cultural shift.”
+•	DevOps is a human problem, not a technological problem.
+•	Development and Operations had differing goals, and this created a divide.
+•	Changing these behaviors can bring change in the company’s culture.
+•	People > Process > Tools
+
+Automation:
+•	A critical part of DevOps
+•	A fabric of operations to control your systems.
+
+Measurement:
+•	Measure key metrics across the organization
+•	Mean time to recovery.
+•	Cycle time
+•	Costs
+•	Revenue
+•	Employee satisfaction
+
+Sharing:
+•	Sharing ideas and problems is the heart of collaboration and also the heart of DevOps.
+•	The feedback loop that helps you continuously improve.
