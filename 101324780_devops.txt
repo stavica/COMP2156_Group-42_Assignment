@@ -1,3 +1,21 @@
 [Topic Description]
 
     This file contains my writings about the college's COMP2156 DevOps course.
+
+[Labs & Hands-on Work, boosting hire-ability]
+
+	The course attempts to give students like me and my peers some amount of hands-on experience
+	with the kinds of tools that you might run into when you're in a DevOps position for a team.
+	However, I feel like that's missed is that a lot of the "kind" of work you might do here is 
+	going to be relevant to someone in the IT field even if they are never working alongside a
+	software development team. 
+
+	Being able to navigate Github, or be more familiar with setting up python/other environments
+	is extremely useful for all kinds of system management work. There are lots of tools out there
+	that already exist which can aid in or outright automate a variety of tasks that a person might
+	run into in their working life in the IT field.
+	
+	Likewise, having an understanding of how those tools are made, and being able to make some yourself
+	can give a pretty serious boost to your hire-ability if you're able to demonstrate the things you've
+	made in your portfolio. Being proficient in powershell, shell, and python scripting are extremely useful
+	and are no doubt hire-able skills.
