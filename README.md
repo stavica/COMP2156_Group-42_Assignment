@@ -15,6 +15,8 @@ Towards the end of the assignment and after a certain number of commits made per
 
 This readme file will be updated over time to reflect our progress.
 
+### James
+
 - Initial push of branch and 3 files
 - modification to 101437918_gb.txt and subsequent push
 - modification of 101437918_devops.txt and subsequent push
@@ -26,6 +28,3 @@ This readme file will be updated over time to reflect our progress.
 - Updated 101437918_gb.txt with college info and subsequent push
 - Updated 101437918_devops.txt with addition thoughts and subsequent push
 - updated 101437918_sdlc.txt with additional thoughts plus subsequent push
-
-
-For progess update screenshots: see 2156GroupProject-101437918.doc
