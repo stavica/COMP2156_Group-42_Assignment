@@ -6,6 +6,12 @@ Reccomended Resources: DevOps: A Software Architect’s Perspective (Bass, Len W
 
 
 
-Devops is an interesting field of study. The process of collaberation and how to smoothly integrate the work 
-of many contributors is doubtless integral to the modern process of app development. The professor seems not 
-only quite familiar with the material but also quite passionate about delivering it in a timely fashion.
+
+Devops is an interesting field of study. The process of collaberation and how to smoothly integrate the work of 
+many contributors is doubtless integral to the modern process of app development. The professor seems not only 
+quite familiar with the material but also quite passionate about delivering it in a timely fashion.
+
+The professor of this class does an excellent job making sure all needed resources are availible to us. From 
+lecture recordings to slides and links all relavent material is provided in a timely manner. The professor is 
+also willing to stay on a subject a little longer to make sure everyone is caught up to where we need to be, 
+ensuring they can succeed at the labs.
