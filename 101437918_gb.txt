@@ -3,7 +3,11 @@ Student Id: 101437918
 Program Name: Computer Systems Technology
 Code: T191
 
-
+College Information:
+	Address: 160 Kendal Ave, Toronto, ON M5R 1M3
+	President: Gervon Fearon
+	Founded: 1967
+	Phone Number: 416-415-2000
 
 
 
