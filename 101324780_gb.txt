@@ -18,3 +18,16 @@
     The one potential downside for me in taking one of those programs, is that none of them are catered toward fully-online students.
     However, I think it should be possible to-- if I develop a positive enough rapport with the instructors of the courses-- figure out some arrangement that might involve me doing the classes/studying online,
         but showing up in-person for major assessments i.e. midterms/exams.
+
+
+[Experience as an Online Student]
+
+	This is where things get a little iffy. First and foremost, it's challenging to really get to know people
+	and socialize. There's discord, and that's mainly it. On Discord, a lot of people are not particularily
+	open about who they are, partly for another issue: Cheating and laziness. There just isn't a way to have
+	a standard 'exam-room' style test for online students to complete without lots of manpower involved in
+	trying to proctor and watch each student. You'd need to essentially treat it like the way Cisco treats
+	the online versions of its certification exams, which is very tricky. While tools like Lockdown browser
+	exist, they can't exactly lock down a person's other laptop, their phone, etc. Any one-on-one way of 
+	examining people is just too time-intensive considering a class could have well over a hundred students,
+	and what's to prevent student 5 from sharing what the 1-on-1 assessment was about to students 6-100? 
