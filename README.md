@@ -14,3 +14,5 @@ Each group member has their own branch. Within their branch, they have three tex
 Towards the end of the assignment and after a certain number of commits made per individual group member, all three branches will be merged into the `main` branch. Any conflicts from the merges will be reviewed and resolved.
 
 This readme file will be updated over time to reflect our progress.
+
+For progess updates: see 2156GroupProject-101437918.doc
