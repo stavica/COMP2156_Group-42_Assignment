@@ -28,3 +28,13 @@ This readme file will be updated over time to reflect our progress.
 - Updated 101437918_gb.txt with college info and subsequent push
 - Updated 101437918_devops.txt with addition thoughts and subsequent push
 - updated 101437918_sdlc.txt with additional thoughts plus subsequent push
+
+### Nicolas
+
+After creating the repository and setting up its initial files, I began some work on the three text files meant for us to fill in. 
+
+As per my commit history, I occasionally added a paragraph or more to each file, over time, not intending to leave everything to the last day in a hectic rush-- especially considering the 'work' is ultimately just filling in text files with idle ramblings.
+
+16/02/2024 - In a call with James, we merged his branch into the main branch, then reverted that merge when we spotted a formatting error in his md file. 
+
+17/02/2024 - Housekeeping, primarily, setting up and moving this readme.md forward. When it's time to merge all the branches, I suppose the one "challenge" we could run into would be finding a way to seamlessly fit the content of our README.md files in ways where they don't overwrite one another. But that isn't much difficulty when really, all one has to do is hit the enter key a few times to move our paragraphs away from one another enough so that they no longer conflict.
