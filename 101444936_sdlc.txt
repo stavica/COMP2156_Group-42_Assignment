@@ -1,0 +1,70 @@
+The Importance of DevOps
+
+What is DevOps?
+•	“The practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.”
+•	Replaces the model of having different teams for writing the code, testing the code, deploying it and operating it.
+•	Characterized by operations staff making use of the same techniques as developers for system flow.
+•	Assets are checked and tested.
+
+Why DevOps?
+•	Effective in improving both IT and business outcomes.
+•	Teams Using DevOps Practices:
+•	Deployed changes 30 times more frequently.
+•	Had 200 times shorter lead times.
+•	Experienced 60 times fewer failures.
+•	Recovered from errors 168 times faster.
+•	Makes daily life easier.
+•	Reduces unplanned work.
+•	Increases friendly relationships between coworkers.
+•	Reduces stress on the job.
+
+DevOps Core Values: CAMS
+•	CAMS Stands for: Culture, Automation, Measurement, Sharing
+
+Culture:
+•	Culture is driven by behaviour.
+•	“The word DevOps gets reduced to technology is a manifestation of how badly we need a cultural shift.”
+•	DevOps is a human problem, not a technological problem.
+•	Development and Operations had differing goals, and this created a divide.
+•	Changing these behaviors can bring change in the company’s culture.
+•	People > Process > Tools
+
+Automation:
+•	A critical part of DevOps
+•	A fabric of operations to control your systems.
+
+Measurement:
+•	Measure key metrics across the organization
+•	Mean time to recovery.
+•	Cycle time
+•	Costs
+•	Revenue
+•	Employee satisfaction
+
+Sharing:
+•	Sharing ideas and problems is the heart of collaboration and also the heart of DevOps.
+•	The feedback loop that helps you continuously improve.
+
+Ten Practices for DevOps Success
+10. Incidence Command System
+9. Developers on Call
+8. Public Status Pages
+7. Blameless Postmortems
+6. Embedded Teams
+5. The Cloud
+4. Andon Cord
+3. Dependency Injection
+2. Blue/Green Deployment
+1. The Chaos Monkey
+
+DevOps Tools
+•	There is no single tool that can do everything, you need a series of tools that can be composed into a tool chain. 
+•	A tool is only useful to the degree that it supports your entire system.
+•	Be thoughtful about choosing your tools; ensure they complement each other and your strategy.
+•	There is a such thing as too many tools. Tools have a cost, even if it’s just the time to learn them.
+•	Consider the risk of using new tools, automating your systems could result in a mass failure. 
+•	Address the values and principles of DevOps first and the tools last.
+•	Tool Criteria:
+•	Programmable: Automated, can been invoked with an API or Command Line.
+•	Verifiable: Trust but verify.
+•	Well behaved: Check configuration and test behaviour.

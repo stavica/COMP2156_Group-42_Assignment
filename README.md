@@ -38,3 +38,9 @@ As per my commit history, I occasionally added a paragraph or more to each file,
 16/02/2024 - In a call with James, we merged his branch into the main branch, then reverted that merge when we spotted a formatting error in his md file. 
 
 17/02/2024 - Housekeeping, primarily, setting up and moving this readme.md forward. When it's time to merge all the branches, I suppose the one "challenge" we could run into would be finding a way to seamlessly fit the content of our README.md files in ways where they don't overwrite one another. But that isn't much difficulty when really, all one has to do is hit the enter key a few times to move our paragraphs away from one another enough so that they no longer conflict.
+
+###
+
+Progress Updates:
+
+02/15/24 > Files in the 101444936-Vince branch are complete and ready to be merged to main.
